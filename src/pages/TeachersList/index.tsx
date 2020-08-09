@@ -7,7 +7,7 @@ import "./styles.css";
 
 const TeachersList = () => {
   return (
-    <div id="page-teacher-list" className="container">
+    <div id="page-teacher-list" className="">
       <PageHeader title="Estes são os Proffys disponíveis">
         <form id="search-teachers">
           <div className="input-block">
